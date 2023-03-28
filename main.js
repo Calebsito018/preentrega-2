@@ -1,16 +1,16 @@
 let stockProductos = [
-  {id: 1, nombre: "Buzo 1", tipo: "buzo", cantidad: 1, desc: "Un buzo que re va con vos", precio: 1200, img: './img/novedades-7.jpeg'},
-  {id: 2, nombre: "Buzo 2", tipo: "buzo", cantidad: 1, desc: "Un buzo que re va con vos", precio: 1100, img: './img/hombre-1.jpg'},
-  {id: 3, nombre: "Buzo 3", tipo: "buzo", cantidad: 1, desc: "Un buzo que re va con vos", precio: 1200, img: './img/hombre-2.jpeg'},
-  {id: 4, nombre: "Buzo 4", tipo: "buzo", cantidad: 1, desc: "Un buzo que re va con vos", precio: 1400, img: './img/hombre-3.jpg'},
-  {id: 5, nombre: "Buzo 5", tipo: "buzo", cantidad: 1, desc: "Un buzo que re va con vos", precio: 1200, img: './img/hombre-3.jpg'},
-  {id: 6, nombre: "Buzo 6", tipo: "buzo", cantidad: 1, desc: "Un buzo que re va con vos", precio: 1500, img: './img/hombre-4.jpg'},
-  {id: 7, nombre: "Remera 1", tipo: "remera", cantidad: 1, desc: "Una remera que re va con vos", precio: 500, img: './img/hombre-5.jpg'},
-  {id: 8, nombre: "Remera 2", tipo: "remera", cantidad: 1, desc: "Una remera que re va con vos", precio: 500, img: './img/hombre-6.jpg'},
-  {id: 9, nombre: "Remera 3", tipo: "remera", cantidad: 1, desc: "Una remera que re va con vos", precio: 500, img: './img/hombre-7.jpg'},
-  {id: 10, nombre: "Remera 4", tipo: "remera", cantidad: 1, desc: "Una remera que re va con vos", precio: 700, img: './img/hombre-8.jpg'},
-  {id: 11, nombre: "Remera 5", tipo: "remera", cantidad: 1,desc: "Una remera que re va con vos", precio: 700, img: './img/hombre-2.jpeg'},
-  {id: 12, nombre: "Remera 6", tipo: "remera", cantidad: 1, desc: "Una remera que re va con vos", precio: 700, img: './img/novedades-7.jpeg'},
+  {id: 1, nombre: "Buzo 1", tipo: "buzo", cantidad: 1, desc: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit, repellat.", precio: 1200, img: './img/novedades-7.jpeg'},
+  {id: 2, nombre: "Buzo 2", tipo: "buzo", cantidad: 1, desc: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit, repellat.", precio: 1100, img: './img/hombre-1.jpg'},
+  {id: 3, nombre: "Buzo 3", tipo: "buzo", cantidad: 1, desc: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit, repellat.", precio: 1200, img: './img/hombre-2.jpeg'},
+  {id: 4, nombre: "Buzo 4", tipo: "buzo", cantidad: 1, desc: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit, repellat.", precio: 1400, img: './img/hombre-3.jpg'},
+  {id: 5, nombre: "Buzo 5", tipo: "buzo", cantidad: 1, desc: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit, repellat.", precio: 1200, img: './img/hombre-3.jpg'},
+  {id: 6, nombre: "Buzo 6", tipo: "buzo", cantidad: 1, desc: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit, repellat.", precio: 1500, img: './img/hombre-4.jpg'},
+  {id: 7, nombre: "Remera 1", tipo: "remera", cantidad: 1, desc: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit, repellat.", precio: 500, img: './img/hombre-5.jpg'},
+  {id: 8, nombre: "Remera 2", tipo: "remera", cantidad: 1, desc: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit, repellat.", precio: 500, img: './img/hombre-6.jpg'},
+  {id: 9, nombre: "Remera 3", tipo: "remera", cantidad: 1, desc: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit, repellat.", precio: 500, img: './img/hombre-7.jpg'},
+  {id: 10, nombre: "Remera 4", tipo: "remera", cantidad: 1, desc: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit, repellat.", precio: 700, img: './img/hombre-8.jpg'},
+  {id: 11, nombre: "Remera 5", tipo: "remera", cantidad: 1,desc: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit, repellat.", precio: 700, img: './img/hombre-2.jpeg'},
+  {id: 12, nombre: "Remera 6", tipo: "remera", cantidad: 1, desc: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit, repellat.", precio: 700, img: './img/novedades-7.jpeg'},
 ]
 
 const contenedorModal = document.getElementsByClassName('modal-contenedor')[0]
